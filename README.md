@@ -1,7 +1,7 @@
-pgb-helloworld-geolocation
+geolocation-pgb-helloworld
 ==========================
 
-Phonegap Build and hopefully Client geolocation easy example
+Phonegap Build and hopefully Client geolocation easy Hello World example
 
 
 Finally this worked 

@@ -6,7 +6,7 @@
         id        = "com.mywebsite34.geolocation"
         version   = "0.0.2">
 
-    <name>geolocation-pgb-helloworld</name>
+    <name>j-geolocation-pgb-helloworld</name>
 
 
   <!--  <preference name="permissions"                value="none"/>  -->
